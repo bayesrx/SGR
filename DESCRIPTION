@@ -1,0 +1,14 @@
+Package: SGR
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2024-05-29
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+Imports: fastBayesReg, BayesGPfit, ggplot2, reshape2, rlist, foreach, 
+    iterators, parallelly, doParallel, sparsevb, parallel
+Remotes: kangjian2016/fastBayesReg
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
